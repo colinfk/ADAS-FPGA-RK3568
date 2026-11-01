@@ -1,0 +1,28 @@
+{
+  "active": [
+    1920,
+    1080
+  ],
+  "total": [
+    2200,
+    1125
+  ],
+  "pixel_clock_hz": 74250000,
+  "refresh_hz": 30,
+  "fractional_refresh_supported": true,
+  "cta_vics": [
+    34,
+    1
+  ],
+  "capture_vics": [
+    34
+  ],
+  "compatibility_mode": "640x480p60, rejected by fixed 1080p capture",
+  "color": "RGB 8 bits/channel",
+  "hdmi_max_tmds_mhz": 75,
+  "sha256": "efe88872f6037a4597180aa180a0ec29ee65f240a031912806a5284ab30c6f93",
+  "block_checksums": [
+    0,
+    0
+  ]
+}

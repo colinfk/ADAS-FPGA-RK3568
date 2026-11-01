@@ -1,0 +1,1077 @@
+[Info] [2026-10-20 06:22:43] /***************************Start jtagserver***************************/
+[Info] [2026-10-20 06:22:43] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-20 06:22:43] Version: 146967
+[Debug] [2026-10-20 06:22:44] Add a new user_thread, socket descriptor is 1136 user_thread id is 0000000000024B58
+[Debug] [2026-10-20 06:22:44] After adding, map size is : 1
+[Debug] [2026-10-20 06:22:44] Add a new user_thread, socket descriptor is 988 user_thread id is 0000000000024B58
+[Debug] [2026-10-20 06:22:44] After adding, map size is : 2
+[Debug] [2026-10-20 06:22:44] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-20 06:22:44] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-20 06:22:44] IP address of connecting client is : ::ffff:127.0.0.1Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:22:44] _total_bytes_size : 160
+[Debug] [2026-10-20 06:22:44] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:22:44] _total_bytes_size : 96
+[Debug] [2026-10-20 06:22:44] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-20 06:22:45] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-20 06:22:45] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:22:45] _total_bytes_size : 101
+[Debug] [2026-10-20 06:22:45] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:22:45] Hardware handler is invalid
+[Debug] [2026-10-20 06:22:45] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:22:47] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:22:47] _total_bytes_size : 101
+[Debug] [2026-10-20 06:22:47] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:22:47] Hardware handler is invalid
+[Debug] [2026-10-20 06:22:47] cmd operation Open config cable releases locker
+[Info] [2026-10-20 06:23:32] /***************************Start jtagserver***************************/
+[Info] [2026-10-20 06:23:32] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-20 06:23:32] Version: 146967
+[Info] [2026-10-20 06:23:56] /***************************Start jtagserver***************************/
+[Info] [2026-10-20 06:23:56] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-20 06:23:56] Version: 146967
+[Debug] [2026-10-20 06:24:08] Add a new user_thread, socket descriptor is 1288 user_thread id is 0000000000004E98
+[Debug] [2026-10-20 06:24:08] After adding, map size is : 1
+[Debug] [2026-10-20 06:24:08] Add a new user_thread, socket descriptor is 1296 user_thread id is 0000000000004E98
+[Debug] [2026-10-20 06:24:08] After adding, map size is : 2
+[Debug] [2026-10-20 06:24:08] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-20 06:24:08] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-20 06:24:08] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:24:08] _total_bytes_size : 160
+[Debug] [2026-10-20 06:24:08] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:24:08] _total_bytes_size : 96
+[Debug] [2026-10-20 06:24:08] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-20 06:24:09] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-20 06:24:09] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:24:09] _total_bytes_size : 101
+[Debug] [2026-10-20 06:24:09] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:24:09] Hardware handler is invalid
+[Debug] [2026-10-20 06:24:09] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:24:12] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:24:12] _total_bytes_size : 101
+[Debug] [2026-10-20 06:24:12] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:24:12] Hardware handler is invalid
+[Debug] [2026-10-20 06:24:12] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:25:10] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:25:10] _total_bytes_size : 101
+[Debug] [2026-10-20 06:25:10] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:25:10] Hardware handler is invalid
+[Debug] [2026-10-20 06:25:10] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:25:23] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:25:23] _total_bytes_size : 101
+[Debug] [2026-10-20 06:25:23] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:25:23] Hardware handler is invalid
+[Debug] [2026-10-20 06:25:23] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:25:54] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:25:54] _total_bytes_size : 101
+[Debug] [2026-10-20 06:25:54] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:25:54] Hardware handler is invalid
+[Debug] [2026-10-20 06:25:54] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:25:56] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:25:56] _total_bytes_size : 101
+[Debug] [2026-10-20 06:25:56] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:25:56] Hardware handler is invalid
+[Debug] [2026-10-20 06:25:56] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:26:05] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:26:05] _total_bytes_size : 101
+[Debug] [2026-10-20 06:26:05] cmd id :20001cmd name : Open config cable
+[Error] [2026-10-20 06:26:05] Hardware handler is invalid
+[Debug] [2026-10-20 06:26:05] cmd operation Open config cable releases locker
+[Info] [2026-10-20 06:26:22] /***************************Start jtagserver***************************/
+[Info] [2026-10-20 06:26:22] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-20 06:26:22] Version: 146967
+[Debug] [2026-10-20 06:26:22] Add a new user_thread, socket descriptor is 924 user_thread id is 00000000000252F4
+[Debug] [2026-10-20 06:26:22] After adding, map size is : 1
+[Debug] [2026-10-20 06:26:22] Add a new user_thread, socket descriptor is 1012 user_thread id is 00000000000252F4
+[Debug] [2026-10-20 06:26:22] After adding, map size is : 2
+[Debug] [2026-10-20 06:26:22] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-20 06:26:22] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-20 06:26:22] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:26:22] _total_bytes_size : 160
+[Debug] [2026-10-20 06:26:22] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:26:22] _total_bytes_size : 96
+[Debug] [2026-10-20 06:26:22] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-20 06:26:23] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-20 06:26:23] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:26:23] _total_bytes_size : 101
+[Debug] [2026-10-20 06:26:23] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-20 06:26:23] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-20 06:26:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:24] cmd operation Open config cable releases locker
+[Debug] [2026-10-20 06:26:32] Remove the header data from the client, index : 0
+[Debug] [2026-10-20 06:26:32] _total_bytes_size : 318
+[Debug] [2026-10-20 06:26:32] cmd id :4e22cmd name : Program
+[Debug] [2026-10-20 06:26:32] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-20 06:26:32] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:32] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:32] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:32] the idcode from the scanning is: 0x0
+[Debug] [2026-10-20 06:26:32] begin to read back config registerregAddr is 4
+[Debug] [2026-10-20 06:26:33] progress bar is 6
+[Debug] [2026-10-20 06:26:33] progress bar is 10
+[Debug] [2026-10-20 06:26:33] progress bar is 15
+[Debug] [2026-10-20 06:26:33] progress bar is 20
+[Debug] [2026-10-20 06:26:33] progress bar is 25
+[Debug] [2026-10-20 06:26:33] progress bar is 30
+[Debug] [2026-10-20 06:26:33] progress bar is 35
+[Debug] [2026-10-20 06:26:34] progress bar is 40
+[Debug] [2026-10-20 06:26:34] progress bar is 45
+[Debug] [2026-10-20 06:26:34] progress bar is 50
+[Debug] [2026-10-20 06:26:34] progress bar is 55
+[Debug] [2026-10-20 06:26:34] progress bar is 60
+[Debug] [2026-10-20 06:26:34] progress bar is 65
+[Debug] [2026-10-20 06:26:34] progress bar is 70
+[Debug] [2026-10-20 06:26:35] progress bar is 75
+[Debug] [2026-10-20 06:26:35] progress bar is 80
+[Debug] [2026-10-20 06:26:35] progress bar is 85
+[Debug] [2026-10-20 06:26:35] progress bar is 90
+[Debug] [2026-10-20 06:26:35] progress bar is 95
+[Debug] [2026-10-20 06:26:35] progress bar is 100
+[Debug] [2026-10-20 06:26:35] the value in the status register is :2096288
+[Debug] [2026-10-20 06:26:36] cmd operation Program releases locker
+[Info] [2026-10-21 05:39:54] /***************************Start jtagserver***************************/
+[Info] [2026-10-21 05:39:54] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-21 05:39:54] Version: 146967
+[Debug] [2026-10-21 05:39:54] Add a new user_thread, socket descriptor is 968 user_thread id is 000000000000F72C
+[Debug] [2026-10-21 05:39:54] After adding, map size is : 1
+[Debug] [2026-10-21 05:39:54] Add a new user_thread, socket descriptor is 1140 user_thread id is 000000000000F72C
+[Debug] [2026-10-21 05:39:54] After adding, map size is : 2
+[Debug] [2026-10-21 05:39:54] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-21 05:39:54] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-21 05:39:54] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 05:39:54] _total_bytes_size : 160
+[Debug] [2026-10-21 05:39:54] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 05:39:54] _total_bytes_size : 96
+[Debug] [2026-10-21 05:39:54] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-21 05:39:55] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-21 05:39:55] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 05:39:55] _total_bytes_size : 101
+[Debug] [2026-10-21 05:39:55] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-21 05:39:56] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 05:39:56] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:39:56] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:39:56] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:39:56] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:39:56] cmd operation Open config cable releases locker
+[Debug] [2026-10-21 05:40:00] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 05:40:00] _total_bytes_size : 318
+[Debug] [2026-10-21 05:40:00] cmd id :4e22cmd name : Program
+[Debug] [2026-10-21 05:40:01] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 05:40:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:40:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:40:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:40:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 05:40:01] begin to read back config registerregAddr is 4
+[Debug] [2026-10-21 05:40:01] progress bar is 6
+[Debug] [2026-10-21 05:40:01] progress bar is 10
+[Debug] [2026-10-21 05:40:01] progress bar is 15
+[Debug] [2026-10-21 05:40:01] progress bar is 20
+[Debug] [2026-10-21 05:40:01] progress bar is 25
+[Debug] [2026-10-21 05:40:01] progress bar is 30
+[Debug] [2026-10-21 05:40:02] progress bar is 35
+[Debug] [2026-10-21 05:40:02] progress bar is 40
+[Debug] [2026-10-21 05:40:02] progress bar is 45
+[Debug] [2026-10-21 05:40:02] progress bar is 50
+[Debug] [2026-10-21 05:40:02] progress bar is 55
+[Debug] [2026-10-21 05:40:02] progress bar is 60
+[Debug] [2026-10-21 05:40:03] progress bar is 65
+[Debug] [2026-10-21 05:40:03] progress bar is 70
+[Debug] [2026-10-21 05:40:03] progress bar is 75
+[Debug] [2026-10-21 05:40:03] progress bar is 80
+[Debug] [2026-10-21 05:40:03] progress bar is 85
+[Debug] [2026-10-21 05:40:03] progress bar is 90
+[Debug] [2026-10-21 05:40:04] progress bar is 95
+[Debug] [2026-10-21 05:40:04] progress bar is 100
+[Debug] [2026-10-21 05:40:04] the value in the status register is :2096288
+[Debug] [2026-10-21 05:40:04] cmd operation Program releases locker
+[Debug] [2026-10-21 06:08:14] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:08:14] _total_bytes_size : 101
+[Debug] [2026-10-21 06:08:14] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-21 06:08:14] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:08:14] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:14] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:14] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:14] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:14] cmd operation Open config cable releases locker
+[Debug] [2026-10-21 06:08:18] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:08:18] _total_bytes_size : 318
+[Debug] [2026-10-21 06:08:18] cmd id :4e22cmd name : Program
+[Debug] [2026-10-21 06:08:18] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:08:18] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:18] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:18] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:18] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:08:18] begin to read back config registerregAddr is 4
+[Debug] [2026-10-21 06:08:19] progress bar is 6
+[Debug] [2026-10-21 06:08:19] progress bar is 10
+[Debug] [2026-10-21 06:08:19] progress bar is 15
+[Debug] [2026-10-21 06:08:19] progress bar is 20
+[Debug] [2026-10-21 06:08:19] progress bar is 25
+[Debug] [2026-10-21 06:08:19] progress bar is 30
+[Debug] [2026-10-21 06:08:19] progress bar is 35
+[Debug] [2026-10-21 06:08:20] progress bar is 40
+[Debug] [2026-10-21 06:08:20] progress bar is 45
+[Debug] [2026-10-21 06:08:20] progress bar is 50
+[Debug] [2026-10-21 06:08:20] progress bar is 55
+[Debug] [2026-10-21 06:08:20] progress bar is 60
+[Debug] [2026-10-21 06:08:20] progress bar is 65
+[Debug] [2026-10-21 06:08:21] progress bar is 70
+[Debug] [2026-10-21 06:08:21] progress bar is 75
+[Debug] [2026-10-21 06:08:21] progress bar is 80
+[Debug] [2026-10-21 06:08:21] progress bar is 85
+[Debug] [2026-10-21 06:08:21] progress bar is 90
+[Debug] [2026-10-21 06:08:21] progress bar is 95
+[Debug] [2026-10-21 06:08:21] progress bar is 100
+[Debug] [2026-10-21 06:08:21] the value in the status register is :2096288
+[Debug] [2026-10-21 06:08:22] cmd operation Program releases locker
+[Debug] [2026-10-21 06:41:15] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:41:15] _total_bytes_size : 792
+[Debug] [2026-10-21 06:41:15] cmd id :20002cmd name : Program
+[Debug] [2026-10-21 06:41:15] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:41:15] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:15] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:15] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:15] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:15] begin to read back config registerregAddr is 4
+[Debug] [2026-10-21 06:41:15] progress bar is 6
+[Debug] [2026-10-21 06:41:15] progress bar is 10
+[Debug] [2026-10-21 06:41:16] progress bar is 15
+[Debug] [2026-10-21 06:41:16] progress bar is 20
+[Debug] [2026-10-21 06:41:16] progress bar is 25
+[Debug] [2026-10-21 06:41:16] progress bar is 30
+[Debug] [2026-10-21 06:41:16] progress bar is 35
+[Debug] [2026-10-21 06:41:16] progress bar is 40
+[Debug] [2026-10-21 06:41:17] progress bar is 45
+[Debug] [2026-10-21 06:41:17] progress bar is 50
+[Debug] [2026-10-21 06:41:17] progress bar is 55
+[Debug] [2026-10-21 06:41:17] progress bar is 60
+[Debug] [2026-10-21 06:41:17] progress bar is 65
+[Debug] [2026-10-21 06:41:17] progress bar is 70
+[Debug] [2026-10-21 06:41:17] progress bar is 75
+[Debug] [2026-10-21 06:41:18] progress bar is 80
+[Debug] [2026-10-21 06:41:18] progress bar is 85
+[Debug] [2026-10-21 06:41:18] progress bar is 90
+[Debug] [2026-10-21 06:41:18] progress bar is 95
+[Debug] [2026-10-21 06:41:18] progress bar is 100
+[Debug] [2026-10-21 06:41:18] the value in the status register is :2096288
+[Debug] [2026-10-21 06:41:18] cmd operation Program releases locker
+[Debug] [2026-10-21 06:41:28] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:41:28] _total_bytes_size : 101
+[Debug] [2026-10-21 06:41:28] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-21 06:41:28] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:41:28] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:28] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:28] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:28] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:28] cmd operation Open config cable releases locker
+[Debug] [2026-10-21 06:41:38] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:41:38] _total_bytes_size : 65
+[Debug] [2026-10-21 06:41:38] cmd id :4e21cmd name : Open config cable
+[Debug] [2026-10-21 06:41:38] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:41:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:38] cmd operation Open config cable releases locker
+[Debug] [2026-10-21 06:41:40] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:41:40] _total_bytes_size : 318
+[Debug] [2026-10-21 06:41:40] cmd id :4e22cmd name : Program
+[Debug] [2026-10-21 06:41:40] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:41:40] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:40] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:40] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:40] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:41:40] begin to read back config registerregAddr is 4
+[Debug] [2026-10-21 06:41:41] progress bar is 6
+[Debug] [2026-10-21 06:41:41] progress bar is 10
+[Debug] [2026-10-21 06:41:41] progress bar is 15
+[Debug] [2026-10-21 06:41:41] progress bar is 20
+[Debug] [2026-10-21 06:41:41] progress bar is 25
+[Debug] [2026-10-21 06:41:41] progress bar is 30
+[Debug] [2026-10-21 06:41:42] progress bar is 35
+[Debug] [2026-10-21 06:41:42] progress bar is 40
+[Debug] [2026-10-21 06:41:42] progress bar is 45
+[Debug] [2026-10-21 06:41:42] progress bar is 50
+[Debug] [2026-10-21 06:41:42] progress bar is 55
+[Debug] [2026-10-21 06:41:42] progress bar is 60
+[Debug] [2026-10-21 06:41:43] progress bar is 65
+[Debug] [2026-10-21 06:41:43] progress bar is 70
+[Debug] [2026-10-21 06:41:43] progress bar is 75
+[Debug] [2026-10-21 06:41:43] progress bar is 80
+[Debug] [2026-10-21 06:41:43] progress bar is 85
+[Debug] [2026-10-21 06:41:43] progress bar is 90
+[Debug] [2026-10-21 06:41:43] progress bar is 95
+[Debug] [2026-10-21 06:41:44] progress bar is 100
+[Debug] [2026-10-21 06:41:44] the value in the status register is :2096288
+[Debug] [2026-10-21 06:41:44] cmd operation Program releases locker
+[Debug] [2026-10-21 06:48:38] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:48:38] _total_bytes_size : 101
+[Debug] [2026-10-21 06:48:38] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-21 06:48:38] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:48:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:38] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:38] cmd operation Open config cable releases locker
+[Debug] [2026-10-21 06:48:41] Remove the header data from the client, index : 0
+[Debug] [2026-10-21 06:48:41] _total_bytes_size : 318
+[Debug] [2026-10-21 06:48:41] cmd id :4e22cmd name : Program
+[Debug] [2026-10-21 06:48:41] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-21 06:48:41] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:41] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:41] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:41] the idcode from the scanning is: 0x0
+[Debug] [2026-10-21 06:48:41] begin to read back config registerregAddr is 4
+[Debug] [2026-10-21 06:48:42] progress bar is 6
+[Debug] [2026-10-21 06:48:42] progress bar is 10
+[Debug] [2026-10-21 06:48:42] progress bar is 15
+[Debug] [2026-10-21 06:48:42] progress bar is 20
+[Debug] [2026-10-21 06:48:42] progress bar is 25
+[Debug] [2026-10-21 06:48:42] progress bar is 30
+[Debug] [2026-10-21 06:48:42] progress bar is 35
+[Debug] [2026-10-21 06:48:43] progress bar is 40
+[Debug] [2026-10-21 06:48:43] progress bar is 45
+[Debug] [2026-10-21 06:48:43] progress bar is 50
+[Debug] [2026-10-21 06:48:43] progress bar is 55
+[Debug] [2026-10-21 06:48:43] progress bar is 60
+[Debug] [2026-10-21 06:48:43] progress bar is 65
+[Debug] [2026-10-21 06:48:44] progress bar is 70
+[Debug] [2026-10-21 06:48:44] progress bar is 75
+[Debug] [2026-10-21 06:48:44] progress bar is 80
+[Debug] [2026-10-21 06:48:44] progress bar is 85
+[Debug] [2026-10-21 06:48:44] progress bar is 90
+[Debug] [2026-10-21 06:48:44] progress bar is 95
+[Debug] [2026-10-21 06:48:44] progress bar is 100
+[Debug] [2026-10-21 06:48:44] the value in the status register is :2096288
+[Debug] [2026-10-21 06:48:45] cmd operation Program releases locker
+[Info] [2026-10-23 06:07:34] /***************************Start jtagserver***************************/
+[Info] [2026-10-23 06:07:34] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-23 06:07:34] Version: 146967
+[Debug] [2026-10-23 06:07:34] Add a new user_thread, socket descriptor is 1172 user_thread id is 0000000000011CEC
+[Debug] [2026-10-23 06:07:34] After adding, map size is : 1
+[Debug] [2026-10-23 06:07:34] Add a new user_thread, socket descriptor is 1196 user_thread id is 0000000000011CEC
+[Debug] [2026-10-23 06:07:34] After adding, map size is : 2
+[Debug] [2026-10-23 06:07:34] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-23 06:07:34] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-23 06:07:34] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 06:07:34] _total_bytes_size : 160
+[Debug] [2026-10-23 06:07:34] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 06:07:34] _total_bytes_size : 96
+[Debug] [2026-10-23 06:07:34] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-23 06:07:36] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-23 06:07:36] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 06:07:36] _total_bytes_size : 101
+[Debug] [2026-10-23 06:07:36] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 06:07:36] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 06:07:36] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:36] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:36] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:36] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:36] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 06:07:38] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 06:07:38] _total_bytes_size : 318
+[Debug] [2026-10-23 06:07:38] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 06:07:39] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 06:07:39] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:39] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:39] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:39] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 06:07:39] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 06:07:39] progress bar is 6
+[Debug] [2026-10-23 06:07:39] progress bar is 10
+[Debug] [2026-10-23 06:07:39] progress bar is 15
+[Debug] [2026-10-23 06:07:39] progress bar is 20
+[Debug] [2026-10-23 06:07:39] progress bar is 25
+[Debug] [2026-10-23 06:07:40] progress bar is 30
+[Debug] [2026-10-23 06:07:40] progress bar is 35
+[Debug] [2026-10-23 06:07:40] progress bar is 40
+[Debug] [2026-10-23 06:07:40] progress bar is 45
+[Debug] [2026-10-23 06:07:40] progress bar is 50
+[Debug] [2026-10-23 06:07:40] progress bar is 55
+[Debug] [2026-10-23 06:07:40] progress bar is 60
+[Debug] [2026-10-23 06:07:41] progress bar is 65
+[Debug] [2026-10-23 06:07:41] progress bar is 70
+[Debug] [2026-10-23 06:07:41] progress bar is 75
+[Debug] [2026-10-23 06:07:41] progress bar is 80
+[Debug] [2026-10-23 06:07:41] progress bar is 85
+[Debug] [2026-10-23 06:07:41] progress bar is 90
+[Debug] [2026-10-23 06:07:42] progress bar is 95
+[Debug] [2026-10-23 06:07:42] progress bar is 100
+[Debug] [2026-10-23 06:07:42] the value in the status register is :2096288
+[Debug] [2026-10-23 06:07:42] cmd operation Program releases locker
+[Debug] [2026-10-23 07:00:58] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:00:58] _total_bytes_size : 101
+[Debug] [2026-10-23 07:00:58] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:58] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:00:59] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:01] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 07:01:21] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:01:21] _total_bytes_size : 65
+[Debug] [2026-10-23 07:01:21] cmd id :4e21cmd name : Open config cable
+[Debug] [2026-10-23 07:01:22] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:01:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:22] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 07:01:26] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:01:26] _total_bytes_size : 318
+[Debug] [2026-10-23 07:01:26] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 07:01:26] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:01:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:01:26] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 07:01:26] progress bar is 6
+[Debug] [2026-10-23 07:01:26] progress bar is 10
+[Debug] [2026-10-23 07:01:26] progress bar is 15
+[Debug] [2026-10-23 07:01:27] progress bar is 20
+[Debug] [2026-10-23 07:01:27] progress bar is 25
+[Debug] [2026-10-23 07:01:27] progress bar is 30
+[Debug] [2026-10-23 07:01:27] progress bar is 35
+[Debug] [2026-10-23 07:01:27] progress bar is 40
+[Debug] [2026-10-23 07:01:27] progress bar is 45
+[Debug] [2026-10-23 07:01:27] progress bar is 50
+[Debug] [2026-10-23 07:01:28] progress bar is 55
+[Debug] [2026-10-23 07:01:28] progress bar is 60
+[Debug] [2026-10-23 07:01:28] progress bar is 65
+[Debug] [2026-10-23 07:01:28] progress bar is 70
+[Debug] [2026-10-23 07:01:28] progress bar is 75
+[Debug] [2026-10-23 07:01:28] progress bar is 80
+[Debug] [2026-10-23 07:01:29] progress bar is 85
+[Debug] [2026-10-23 07:01:29] progress bar is 90
+[Debug] [2026-10-23 07:01:29] progress bar is 95
+[Debug] [2026-10-23 07:01:29] progress bar is 100
+[Debug] [2026-10-23 07:01:29] the value in the status register is :2096288
+[Debug] [2026-10-23 07:01:29] cmd operation Program releases locker
+[Debug] [2026-10-23 07:02:45] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:02:45] _total_bytes_size : 101
+[Debug] [2026-10-23 07:02:45] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 07:02:45] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:02:45] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:45] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:45] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:45] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:45] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 07:02:52] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:02:52] _total_bytes_size : 318
+[Debug] [2026-10-23 07:02:52] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 07:02:52] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:02:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:02:52] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 07:02:53] progress bar is 6
+[Debug] [2026-10-23 07:02:53] progress bar is 10
+[Debug] [2026-10-23 07:02:53] progress bar is 15
+[Debug] [2026-10-23 07:02:53] progress bar is 20
+[Debug] [2026-10-23 07:02:53] progress bar is 25
+[Debug] [2026-10-23 07:02:53] progress bar is 30
+[Debug] [2026-10-23 07:02:54] progress bar is 35
+[Debug] [2026-10-23 07:02:54] progress bar is 40
+[Debug] [2026-10-23 07:02:54] progress bar is 45
+[Debug] [2026-10-23 07:02:54] progress bar is 50
+[Debug] [2026-10-23 07:02:54] progress bar is 55
+[Debug] [2026-10-23 07:02:54] progress bar is 60
+[Debug] [2026-10-23 07:02:54] progress bar is 65
+[Debug] [2026-10-23 07:02:55] progress bar is 70
+[Debug] [2026-10-23 07:02:55] progress bar is 75
+[Debug] [2026-10-23 07:02:55] progress bar is 80
+[Debug] [2026-10-23 07:02:55] progress bar is 85
+[Debug] [2026-10-23 07:02:55] progress bar is 90
+[Debug] [2026-10-23 07:02:55] progress bar is 95
+[Debug] [2026-10-23 07:02:56] progress bar is 100
+[Debug] [2026-10-23 07:02:56] the value in the status register is :2096288
+[Debug] [2026-10-23 07:02:56] cmd operation Program releases locker
+[Debug] [2026-10-23 07:19:22] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:19:22] _total_bytes_size : 101
+[Debug] [2026-10-23 07:19:22] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 07:19:22] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:19:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:22] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:22] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 07:19:24] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:19:24] _total_bytes_size : 318
+[Debug] [2026-10-23 07:19:24] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 07:19:24] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:19:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:19:24] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 07:19:24] progress bar is 6
+[Debug] [2026-10-23 07:19:24] progress bar is 10
+[Debug] [2026-10-23 07:19:25] progress bar is 15
+[Debug] [2026-10-23 07:19:25] progress bar is 20
+[Debug] [2026-10-23 07:19:25] progress bar is 25
+[Debug] [2026-10-23 07:19:25] progress bar is 30
+[Debug] [2026-10-23 07:19:25] progress bar is 35
+[Debug] [2026-10-23 07:19:25] progress bar is 40
+[Debug] [2026-10-23 07:19:26] progress bar is 45
+[Debug] [2026-10-23 07:19:26] progress bar is 50
+[Debug] [2026-10-23 07:19:26] progress bar is 55
+[Debug] [2026-10-23 07:19:26] progress bar is 60
+[Debug] [2026-10-23 07:19:26] progress bar is 65
+[Debug] [2026-10-23 07:19:26] progress bar is 70
+[Debug] [2026-10-23 07:19:26] progress bar is 75
+[Debug] [2026-10-23 07:19:27] progress bar is 80
+[Debug] [2026-10-23 07:19:27] progress bar is 85
+[Debug] [2026-10-23 07:19:27] progress bar is 90
+[Debug] [2026-10-23 07:19:27] progress bar is 95
+[Debug] [2026-10-23 07:19:27] progress bar is 100
+[Debug] [2026-10-23 07:19:27] the value in the status register is :2096288
+[Debug] [2026-10-23 07:19:27] cmd operation Program releases locker
+[Debug] [2026-10-23 07:29:52] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:29:52] _total_bytes_size : 101
+[Debug] [2026-10-23 07:29:52] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 07:29:52] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:29:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:29:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:29:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:29:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:29:52] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 07:29:59] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 07:29:59] _total_bytes_size : 318
+[Debug] [2026-10-23 07:29:59] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 07:30:00] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 07:30:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:30:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:30:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:30:00] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 07:30:00] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 07:30:00] progress bar is 6
+[Debug] [2026-10-23 07:30:00] progress bar is 10
+[Debug] [2026-10-23 07:30:00] progress bar is 15
+[Debug] [2026-10-23 07:30:00] progress bar is 20
+[Debug] [2026-10-23 07:30:00] progress bar is 25
+[Debug] [2026-10-23 07:30:00] progress bar is 30
+[Debug] [2026-10-23 07:30:01] progress bar is 35
+[Debug] [2026-10-23 07:30:01] progress bar is 40
+[Debug] [2026-10-23 07:30:01] progress bar is 45
+[Debug] [2026-10-23 07:30:01] progress bar is 50
+[Debug] [2026-10-23 07:30:01] progress bar is 55
+[Debug] [2026-10-23 07:30:01] progress bar is 60
+[Debug] [2026-10-23 07:30:02] progress bar is 65
+[Debug] [2026-10-23 07:30:02] progress bar is 70
+[Debug] [2026-10-23 07:30:02] progress bar is 75
+[Debug] [2026-10-23 07:30:02] progress bar is 80
+[Debug] [2026-10-23 07:30:02] progress bar is 85
+[Debug] [2026-10-23 07:30:02] progress bar is 90
+[Debug] [2026-10-23 07:30:02] progress bar is 95
+[Debug] [2026-10-23 07:30:03] progress bar is 100
+[Debug] [2026-10-23 07:30:03] the value in the status register is :2096288
+[Debug] [2026-10-23 07:30:03] cmd operation Program releases locker
+[Debug] [2026-10-23 08:24:04] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:24:04] _total_bytes_size : 101
+[Debug] [2026-10-23 08:24:04] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 08:24:04] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:24:04] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:04] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:04] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:04] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:04] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 08:24:07] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:24:07] _total_bytes_size : 318
+[Debug] [2026-10-23 08:24:07] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 08:24:07] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:24:07] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:07] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:07] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:07] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:24:07] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 08:24:07] progress bar is 6
+[Debug] [2026-10-23 08:24:07] progress bar is 10
+[Debug] [2026-10-23 08:24:07] progress bar is 15
+[Debug] [2026-10-23 08:24:07] progress bar is 20
+[Debug] [2026-10-23 08:24:07] progress bar is 25
+[Debug] [2026-10-23 08:24:08] progress bar is 30
+[Debug] [2026-10-23 08:24:08] progress bar is 35
+[Debug] [2026-10-23 08:24:08] progress bar is 40
+[Debug] [2026-10-23 08:24:08] progress bar is 45
+[Debug] [2026-10-23 08:24:08] progress bar is 50
+[Debug] [2026-10-23 08:24:08] progress bar is 55
+[Debug] [2026-10-23 08:24:09] progress bar is 60
+[Debug] [2026-10-23 08:24:09] progress bar is 65
+[Debug] [2026-10-23 08:24:09] progress bar is 70
+[Debug] [2026-10-23 08:24:09] progress bar is 75
+[Debug] [2026-10-23 08:24:09] progress bar is 80
+[Debug] [2026-10-23 08:24:09] progress bar is 85
+[Debug] [2026-10-23 08:24:09] progress bar is 90
+[Debug] [2026-10-23 08:24:10] progress bar is 95
+[Debug] [2026-10-23 08:24:10] progress bar is 100
+[Debug] [2026-10-23 08:24:10] the value in the status register is :2096288
+[Debug] [2026-10-23 08:24:10] cmd operation Program releases locker
+[Debug] [2026-10-23 08:28:23] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:28:23] _total_bytes_size : 101
+[Debug] [2026-10-23 08:28:23] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 08:28:23] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:28:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:23] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:23] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 08:28:25] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:28:25] _total_bytes_size : 318
+[Debug] [2026-10-23 08:28:25] cmd id :4e22cmd name : Program
+[Debug] [2026-10-23 08:28:25] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:28:25] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:25] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:25] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:25] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:28:25] begin to read back config registerregAddr is 4
+[Debug] [2026-10-23 08:28:26] progress bar is 6
+[Debug] [2026-10-23 08:28:26] progress bar is 10
+[Debug] [2026-10-23 08:28:26] progress bar is 15
+[Debug] [2026-10-23 08:28:26] progress bar is 20
+[Debug] [2026-10-23 08:28:26] progress bar is 25
+[Debug] [2026-10-23 08:28:26] progress bar is 30
+[Debug] [2026-10-23 08:28:27] progress bar is 35
+[Debug] [2026-10-23 08:28:27] progress bar is 40
+[Debug] [2026-10-23 08:28:27] progress bar is 45
+[Debug] [2026-10-23 08:28:27] progress bar is 50
+[Debug] [2026-10-23 08:28:27] progress bar is 55
+[Debug] [2026-10-23 08:28:27] progress bar is 60
+[Debug] [2026-10-23 08:28:27] progress bar is 65
+[Debug] [2026-10-23 08:28:28] progress bar is 70
+[Debug] [2026-10-23 08:28:28] progress bar is 75
+[Debug] [2026-10-23 08:28:28] progress bar is 80
+[Debug] [2026-10-23 08:28:28] progress bar is 85
+[Debug] [2026-10-23 08:28:28] progress bar is 90
+[Debug] [2026-10-23 08:28:28] progress bar is 95
+[Debug] [2026-10-23 08:28:29] progress bar is 100
+[Debug] [2026-10-23 08:28:29] the value in the status register is :2096288
+[Debug] [2026-10-23 08:28:29] cmd operation Program releases locker
+[Info] [2026-10-23 08:34:50] /***************************Start jtagserver***************************/
+[Info] [2026-10-23 08:34:50] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-23 08:34:50] Version: 146967
+[Debug] [2026-10-23 08:34:51] Add a new user_thread, socket descriptor is 1156 user_thread id is 000000000000D3FC
+[Debug] [2026-10-23 08:34:51] After adding, map size is : 1
+[Debug] [2026-10-23 08:34:51] Add a new user_thread, socket descriptor is 1184 user_thread id is 000000000000D3FC
+[Debug] [2026-10-23 08:34:51] After adding, map size is : 2
+[Debug] [2026-10-23 08:34:51] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-23 08:34:51] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-23 08:34:51] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:34:51] _total_bytes_size : 160
+[Debug] [2026-10-23 08:34:51] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:34:51] _total_bytes_size : 96
+[Debug] [2026-10-23 08:34:51] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-23 08:34:52] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-23 08:34:52] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:34:52] _total_bytes_size : 101
+[Debug] [2026-10-23 08:34:52] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 08:34:52] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:34:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:34:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:34:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:34:52] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:34:52] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 08:39:15] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:39:15] _total_bytes_size : 165
+[Debug] [2026-10-23 08:39:15] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:39:16] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:39:16] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:16] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:16] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:16] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:16] the value in the status register is :81ffca0
+[Debug] [2026-10-23 08:39:16] flash_id is 1c7118
+[Debug] [2026-10-23 08:39:16] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2026-10-23 08:39:26] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:39:26] _total_bytes_size : 65
+[Debug] [2026-10-23 08:39:26] cmd id :4e21cmd name : Open config cable
+[Debug] [2026-10-23 08:39:27] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:39:27] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:27] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:27] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:27] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:27] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 08:39:30] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:39:30] _total_bytes_size : 331
+[Debug] [2026-10-23 08:39:30] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:39:30] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:39:30] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:30] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:30] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:30] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:30] the value in the status register is :81ffca0
+[Debug] [2026-10-23 08:39:30] flash_id is 1c7118
+[Debug] [2026-10-23 08:39:30] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2026-10-23 08:39:34] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:39:34] _total_bytes_size : 331
+[Debug] [2026-10-23 08:39:34] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:39:34] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:39:34] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:34] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:34] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:34] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:39:34] the value in the status register is :81ffca0
+[Debug] [2026-10-23 08:39:34] flash_id is 1c7118
+[Debug] [2026-10-23 08:39:34] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2026-10-23 08:41:28] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:41:28] _total_bytes_size : 14c
+[Debug] [2026-10-23 08:41:28] cmd id :9c4bcmd name : set_cable_paras
+[Debug] [2026-10-23 08:41:28] cmd operation set_cable_paras releases locker
+[Debug] [2026-10-23 08:41:31] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:41:31] _total_bytes_size : 65
+[Debug] [2026-10-23 08:41:31] cmd id :4e21cmd name : Open config cable
+[Debug] [2026-10-23 08:41:31] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:41:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:31] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 08:41:35] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:41:35] _total_bytes_size : 331
+[Debug] [2026-10-23 08:41:35] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:41:35] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:41:35] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:35] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:35] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:35] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:41:35] the value in the status register is :81ffca0
+[Debug] [2026-10-23 08:41:35] flash_id is 1c7118
+[Debug] [2026-10-23 08:41:35] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2026-10-23 08:41:49] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:41:49] _total_bytes_size : 14c
+[Debug] [2026-10-23 08:41:49] cmd id :9c4bcmd name : set_cable_paras
+[Debug] [2026-10-23 08:41:50] cmd operation set_cable_paras releases locker
+[Debug] [2026-10-23 08:41:55] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:41:55] _total_bytes_size : 14c
+[Debug] [2026-10-23 08:41:55] cmd id :9c4bcmd name : set_cable_paras
+[Debug] [2026-10-23 08:41:56] cmd operation set_cable_paras releases locker
+[Debug] [2026-10-23 08:45:58] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:45:58] _total_bytes_size : 3fd0
+[Debug] [2026-10-23 08:45:58] cmd id :4e69cmd name : Update user flash device
+[Debug] [2026-10-23 08:45:58] cmd operation Update user flash device releases locker
+[Debug] [2026-10-23 08:46:01] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:46:01] _total_bytes_size : 301
+[Debug] [2026-10-23 08:46:01] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:46:01] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:46:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:46:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:46:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:46:01] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:46:02] cmd operation Scan Outer SPI Flash releases locker
+[Info] [2026-10-23 08:48:15] /***************************Start jtagserver***************************/
+[Info] [2026-10-23 08:48:15] Path: D:/pango/PDS_2022.2-SP6.4/bin
+[Info] [2026-10-23 08:48:15] Version: 146967
+[Debug] [2026-10-23 08:48:16] Add a new user_thread, socket descriptor is 1268 user_thread id is 0000000000019DA4
+[Debug] [2026-10-23 08:48:16] After adding, map size is : 1
+[Debug] [2026-10-23 08:48:16] Add a new user_thread, socket descriptor is 1008 user_thread id is 0000000000019DA4
+[Debug] [2026-10-23 08:48:16] After adding, map size is : 2
+[Debug] [2026-10-23 08:48:16] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-23 08:48:16] IP address of connecting client is : ::ffff:127.0.0.1
+[Debug] [2026-10-23 08:48:16] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:48:16] _total_bytes_size : 160
+[Debug] [2026-10-23 08:48:16] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:48:16] _total_bytes_size : 96
+[Debug] [2026-10-23 08:48:16] cmd id :40010cmd name : get_cable_paras
+[Debug] [2026-10-23 08:48:17] cmd operation get_cable_paras releases locker
+[Debug] [2026-10-23 08:48:23] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:48:23] _total_bytes_size : 332
+[Debug] [2026-10-23 08:48:23] cmd id :40011cmd name : set_cable_paras
+[Debug] [2026-10-23 08:48:23] cmd operation set_cable_paras releases locker
+[Debug] [2026-10-23 08:48:24] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:48:24] _total_bytes_size : 101
+[Debug] [2026-10-23 08:48:24] cmd id :20001cmd name : Open config cable
+[Debug] [2026-10-23 08:48:24] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:48:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:24] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:25] cmd operation Open config cable releases locker
+[Debug] [2026-10-23 08:48:31] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:48:31] _total_bytes_size : 331
+[Debug] [2026-10-23 08:48:31] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:48:31] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:48:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:31] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:48:31] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:48:31] flash_id is 1c7118
+[Debug] [2026-10-23 08:48:31] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2026-10-23 08:50:08] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:50:08] _total_bytes_size : 331
+[Debug] [2026-10-23 08:50:08] cmd id :4f4ccmd name : Scan Outer SPI Flash
+[Debug] [2026-10-23 08:50:08] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:50:08] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:08] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:08] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:08] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:08] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:50:08] flash_id is 1c7118
+[Debug] [2026-10-23 08:50:08] cmd operation Scan Outer SPI Flash releases locker
+[Debug] [2026-10-23 08:50:26] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:50:26] _total_bytes_size : 4f2
+[Debug] [2026-10-23 08:50:26] cmd id :4f4ecmd name : Erase Outer Flash
+[Debug] [2026-10-23 08:50:26] begin to operate flash: cmd id = 4f4e
+[Debug] [2026-10-23 08:50:26] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:50:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:26] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:26] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:50:26] flash_id is 1c7118
+[Debug] [2026-10-23 08:50:26] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:50:26] progress bar is 1
+[Error] [2026-10-23 08:50:26] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:26] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:26] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:26] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:26] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:27] progress bar is 7
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:27] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:28] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:28] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:28] progress bar is 10
+[Error] [2026-10-23 08:50:28] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:28] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:28] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:28] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:29] progress bar is 15
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:29] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:30] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:30] progress bar is 21
+[Error] [2026-10-23 08:50:30] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:30] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:30] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:30] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:30] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:31] progress bar is 26
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:31] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:32] progress bar is 31
+[Error] [2026-10-23 08:50:32] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:32] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:32] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:32] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:32] progress bar is 35
+[Error] [2026-10-23 08:50:32] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:32] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:33] progress bar is 40
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:33] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:34] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:34] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:34] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:34] progress bar is 45
+[Error] [2026-10-23 08:50:34] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:34] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:34] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:35] progress bar is 50
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:35] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:36] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:36] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:36] progress bar is 56
+[Error] [2026-10-23 08:50:36] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:36] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:36] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:36] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:37] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:37] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:37] progress bar is 61
+[Error] [2026-10-23 08:50:37] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:37] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:37] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:37] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:38] progress bar is 66
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:38] progress bar is 70
+[Error] [2026-10-23 08:50:38] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:39] progress bar is 75
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:39] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:40] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:40] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:40] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:40] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:40] progress bar is 80
+[Error] [2026-10-23 08:50:40] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:40] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:41] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:41] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:41] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:41] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:41] progress bar is 85
+[Error] [2026-10-23 08:50:41] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:41] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:42] progress bar is 91
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:42] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:43] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:43] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:43] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:43] progress bar is 96
+[Error] [2026-10-23 08:50:43] WaitForWIPFinish timeout, wait second ms:100
+[Error] [2026-10-23 08:50:43] WaitForWIPFinish timeout, wait second ms:100
+[Debug] [2026-10-23 08:50:43] progress bar is 100
+[Debug] [2026-10-23 08:50:43] end to operate flash: cmd id = 20302
+[Debug] [2026-10-23 08:50:43] cmd operation Erase Outer Flash releases locker
+[Debug] [2026-10-23 08:50:43] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:50:43] _total_bytes_size : 1263
+[Debug] [2026-10-23 08:50:43] cmd id :20301cmd name : Program Outer Flash
+[Debug] [2026-10-23 08:50:43] begin to operate flash: cmd id = 20301
+[Debug] [2026-10-23 08:50:44] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:50:44] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:44] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:44] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:44] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:50:44] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:50:44] flash_id is 1c7118
+[Debug] [2026-10-23 08:50:44] The value of GigaDevice status register 1 is 0x
+[Debug] [2026-10-23 08:50:44] progress bar is 1
+[Debug] [2026-10-23 08:50:49] progress bar is 6
+[Debug] [2026-10-23 08:50:52] progress bar is 10
+[Debug] [2026-10-23 08:50:57] progress bar is 15
+[Debug] [2026-10-23 08:51:01] progress bar is 20
+[Debug] [2026-10-23 08:51:05] progress bar is 25
+[Debug] [2026-10-23 08:51:10] progress bar is 30
+[Debug] [2026-10-23 08:51:14] progress bar is 35
+[Debug] [2026-10-23 08:51:18] progress bar is 40
+[Debug] [2026-10-23 08:51:23] progress bar is 45
+[Debug] [2026-10-23 08:51:27] progress bar is 50
+[Debug] [2026-10-23 08:51:31] progress bar is 55
+[Debug] [2026-10-23 08:51:36] progress bar is 60
+[Debug] [2026-10-23 08:51:40] progress bar is 65
+[Debug] [2026-10-23 08:51:45] progress bar is 70
+[Debug] [2026-10-23 08:51:49] progress bar is 75
+[Debug] [2026-10-23 08:51:53] progress bar is 80
+[Debug] [2026-10-23 08:51:58] progress bar is 85
+[Debug] [2026-10-23 08:52:02] progress bar is 90
+[Debug] [2026-10-23 08:52:06] progress bar is 95
+[Debug] [2026-10-23 08:52:11] progress bar is 100
+[Debug] [2026-10-23 08:52:11] end to operate flash: cmd id = 20301
+[Debug] [2026-10-23 08:52:11] cmd operation Program Outer Flash releases locker
+[Debug] [2026-10-23 08:52:11] Remove the header data from the client, index : 0
+[Debug] [2026-10-23 08:52:11] _total_bytes_size : 1261
+[Debug] [2026-10-23 08:52:11] cmd id :20303cmd name : Verify Outer Flash
+[Debug] [2026-10-23 08:52:11] begin to operate flash: cmd id = 20303
+[Debug] [2026-10-23 08:52:11] the idcode from the scanning is: 0x50602899
+[Debug] [2026-10-23 08:52:11] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:52:11] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:52:11] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:52:11] the idcode from the scanning is: 0x0
+[Debug] [2026-10-23 08:52:11] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:52:11] flash_id is 1c7118
+[Debug] [2026-10-23 08:52:11] the value in the status register is :1ffca0
+[Debug] [2026-10-23 08:52:11] progress bar is 1
+[Debug] [2026-10-23 08:52:13] progress bar is 6
+[Debug] [2026-10-23 08:52:14] progress bar is 10
+[Debug] [2026-10-23 08:52:16] progress bar is 15
+[Debug] [2026-10-23 08:52:17] progress bar is 20
+[Debug] [2026-10-23 08:52:19] progress bar is 25
+[Debug] [2026-10-23 08:52:20] progress bar is 30
+[Debug] [2026-10-23 08:52:22] progress bar is 35
+[Debug] [2026-10-23 08:52:23] progress bar is 40
+[Debug] [2026-10-23 08:52:25] progress bar is 45
+[Debug] [2026-10-23 08:52:26] progress bar is 50
+[Debug] [2026-10-23 08:52:28] progress bar is 55
+[Debug] [2026-10-23 08:52:29] progress bar is 60
+[Debug] [2026-10-23 08:52:31] progress bar is 65
+[Debug] [2026-10-23 08:52:32] progress bar is 70
+[Debug] [2026-10-23 08:52:34] progress bar is 75
+[Debug] [2026-10-23 08:52:35] progress bar is 80
+[Debug] [2026-10-23 08:52:37] progress bar is 85
+[Debug] [2026-10-23 08:52:38] progress bar is 90
+[Debug] [2026-10-23 08:52:40] progress bar is 95
+[Debug] [2026-10-23 08:52:41] progress bar is 100
+[Debug] [2026-10-23 08:52:41] end to operate flash: cmd id = 20303
+[Debug] [2026-10-23 08:52:41] cmd operation Verify Outer Flash releases locker

@@ -1,0 +1,302 @@
+##### Written on 2026/10/19 09:47:31 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PG2L100H-6FBG484
+
+Top Module : 
+	pcie_dma_test
+
+Constraint File(s) : 
+	D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/pcie_dma_test.fdc
+	D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc
+	D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/ddr_frame_buffer.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 22 critical warning(s), 4 warning(s), out of 650 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:key_left_n} {PAP_IO_LOC} {M15}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/pcie_dma_test.fdc(line number: 52)] | Port key_left_n has been placed at location M15, whose type is share pin.
+
+define_attribute {p:key_right_n} {PAP_IO_LOC} {M16}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/pcie_dma_test.fdc(line number: 74)] | Port key_right_n has been placed at location M16, whose type is share pin.
+
+define_attribute {p:b_in[7]} {PAP_IO_LOC} {AB18}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 27)] | Port b_in[7] has been placed at location AB18, whose type is share pin.
+
+define_attribute {p:b_in[6]} {PAP_IO_LOC} {P15}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 32)] | Port b_in[6] has been placed at location P15, whose type is share pin.
+
+define_attribute {p:b_in[4]} {PAP_IO_LOC} {R16}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 42)] | Port b_in[4] has been placed at location R16, whose type is share pin.
+
+define_attribute {p:b_in[2]} {PAP_IO_LOC} {N13}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 52)] | Port b_in[2] has been placed at location N13, whose type is share pin.
+
+define_attribute {p:b_in[0]} {PAP_IO_LOC} {N14}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 62)] | Port b_in[0] has been placed at location N14, whose type is share pin.
+
+define_attribute {p:g_in[7]} {PAP_IO_LOC} {AB20}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 69)] | Port g_in[7] has been placed at location AB20, whose type is share pin.
+
+define_attribute {p:g_in[6]} {PAP_IO_LOC} {R18}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 74)] | Port g_in[6] has been placed at location R18, whose type is share pin.
+
+define_attribute {p:g_in[5]} {PAP_IO_LOC} {V17}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 79)] | Port g_in[5] has been placed at location V17, whose type is share pin.
+
+define_attribute {p:g_in[4]} {PAP_IO_LOC} {T18}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 84)] | Port g_in[4] has been placed at location T18, whose type is share pin.
+
+define_attribute {p:g_in[3]} {PAP_IO_LOC} {W17}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 89)] | Port g_in[3] has been placed at location W17, whose type is share pin.
+
+define_attribute {p:g_in[1]} {PAP_IO_LOC} {AA18}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 99)] | Port g_in[1] has been placed at location AA18, whose type is share pin.
+
+define_attribute {p:g_in[0]} {PAP_IO_LOC} {P17}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 104)] | Port g_in[0] has been placed at location P17, whose type is share pin.
+
+define_attribute {p:r_in[7]} {PAP_IO_LOC} {AB21}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 111)] | Port r_in[7] has been placed at location AB21, whose type is share pin.
+
+define_attribute {p:r_in[5]} {PAP_IO_LOC} {AB22}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 121)] | Port r_in[5] has been placed at location AB22, whose type is share pin.
+
+define_attribute {p:r_in[1]} {PAP_IO_LOC} {AA19}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 141)] | Port r_in[1] has been placed at location AA19, whose type is share pin.
+
+define_attribute {p:de_in} {PAP_IO_LOC} {P16}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 153)] | Port de_in has been placed at location P16, whose type is share pin.
+
+define_attribute {p:hs_in} {PAP_IO_LOC} {U17}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 160)] | Port hs_in has been placed at location U17, whose type is share pin.
+
+define_attribute {p:vs_in} {PAP_IO_LOC} {R17}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 167)] | Port vs_in has been placed at location R17, whose type is share pin.
+
+define_attribute {p:hd_sda} {PAP_IO_LOC} {AA20}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 174)] | Port hd_sda has been placed at location AA20, whose type is share pin.
+
+define_attribute {p:hd_scl} {PAP_IO_LOC} {AA21}
+	C: ConstraintEditor-2002: [D:/PDS/_deliveries/ADAS_FINAL_KEYS_20261019/ADAS_FINAL_KEYS_20261019/fpga_v10/fdc/hdmi_loop_v1.1.fdc(line number: 182)] | Port hd_scl has been placed at location AA21, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+W: ConstraintEditor-4019: Port Bus 'rxn' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port Bus 'rxp' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port Bus 'txn' unspecified I/O constraint.
+W: ConstraintEditor-4019: Port Bus 'txp' unspecified I/O constraint.
+
+Constraints with matching wildcard expressions:
+********************************************
+
+set_false_path -from [get_cells -hierarchical -regexp {.*u_video_write_fifo/pgm_distributed_sdpram/.*}] -to [get_clocks {pclk_div2}]
+	I: The pattern '.*u_video_write_fifo/pgm_distributed_sdpram/.*' in command 'get_cells -hierarchical -regexp .*u_video_write_fifo/pgm_distributed_sdpram/.*' match 1 objects below:
+	I: instance u_ips2l_pcie_dma/u_ips2l_pcie_dma_rx_top/u_video_write_fifo/pgm_distributed_sdpram/mem
+
+set_false_path -to [get_cells -hierarchical -regexp {(hdmi_flags_d1|ddr_extra_d1|ddr_diag_flags_d1|ddr_.*_pclk_d1).*}]
+	I: The pattern '(hdmi_flags_d1|ddr_extra_d1|ddr_diag_flags_d1|ddr_.*_pclk_d1).*' in command 'get_cells -hierarchical -regexp (hdmi_flags_d1|ddr_extra_d1|ddr_diag_flags_d1|ddr_.*_pclk_d1).*' match 6 objects below:
+	I: instance ddr_diag_flags_d1[7:0]
+	I: instance ddr_error_pclk_d1
+	I: instance ddr_extra_d1[1:0]
+	I: instance ddr_init_pclk_d1
+	I: instance ddr_test_state_pclk_d1[3:0]
+	I: instance hdmi_flags_d1[7:0]
+
+set_false_path -to [get_cells -hierarchical -regexp {.*snapshot/(req_sync1|ack_sync1).*}]
+	I: The pattern '.*snapshot/(req_sync1|ack_sync1).*' in command 'get_cells -hierarchical -regexp .*snapshot/(req_sync1|ack_sync1).*' match 18 objects below:
+	I: instance u_capture_diag_snapshot/ack_sync1
+	I: instance u_capture_diag_snapshot/req_sync1
+	I: instance u_ddr_diag_snapshot/ack_sync1
+	I: instance u_ddr_diag_snapshot/req_sync1
+	I: instance u_feature_append_diag_snapshot/ack_sync1
+	I: instance u_feature_append_diag_snapshot/req_sync1
+	I: instance u_hdmi_diag_snapshot/ack_sync1
+	I: instance u_hdmi_diag_snapshot/req_sync1
+	I: instance u_hdmi_in_demo/u_rx_monitor/u_geometry_snapshot/ack_sync1
+	I: instance u_hdmi_in_demo/u_rx_monitor/u_geometry_snapshot/req_sync1
+	I: instance u_hdmi_in_demo/u_timing_monitor/u_timing_snapshot/ack_sync1
+	I: instance u_hdmi_in_demo/u_timing_monitor/u_timing_snapshot/req_sync1
+	I: instance u_lane_keys/u_key_snapshot/ack_sync1
+	I: instance u_lane_keys/u_key_snapshot/req_sync1
+	I: instance u_low_light_diag_snapshot/ack_sync1
+	I: instance u_low_light_diag_snapshot/req_sync1
+	I: instance u_rx_request_snapshot/ack_sync1
+	I: instance u_rx_request_snapshot/req_sync1
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_ddr_frame_buffer/fifo_writer_priority_sync1.*}]
+	I: The pattern '.*u_ddr_frame_buffer/fifo_writer_priority_sync1.*' in command 'get_cells -hierarchical -regexp .*u_ddr_frame_buffer/fifo_writer_priority_sync1.*' match 1 objects below:
+	I: instance g_ddr_frame_buffer.u_ddr_frame_buffer/fifo_writer_priority_sync1
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_input_sampler/select_sync1.*}]
+	I: The pattern '.*u_input_sampler/select_sync1.*' in command 'get_cells -hierarchical -regexp .*u_input_sampler/select_sync1.*' match 1 objects below:
+	I: instance u_hdmi_in_demo/u_input_sampler/select_sync1
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_lane_cnn/buffers/(req_meta|ack_meta).*}]
+	I: The pattern '.*u_lane_cnn/buffers/(req_meta|ack_meta).*' in command 'get_cells -hierarchical -regexp .*u_lane_cnn/buffers/(req_meta|ack_meta).*' match 2 objects below:
+	I: instance g_tiny_lane.u_lane_cnn/buffers/ack_meta[1:0]
+	I: instance g_tiny_lane.u_lane_cnn/buffers/req_meta[1:0]
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_lane_cnn/result_cdc/(req_sync1|ack_sync1).*}]
+	I: The pattern '.*u_lane_cnn/result_cdc/(req_sync1|ack_sync1).*' in command 'get_cells -hierarchical -regexp .*u_lane_cnn/result_cdc/(req_sync1|ack_sync1).*' match 2 objects below:
+	I: instance g_tiny_lane.u_lane_cnn/result_cdc/ack_sync1
+	I: instance g_tiny_lane.u_lane_cnn/result_cdc/req_sync1
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_lane_keys/key_meta.*}]
+	I: The pattern '.*u_lane_keys/key_meta.*' in command 'get_cells -hierarchical -regexp .*u_lane_keys/key_meta.*' match 1 objects below:
+	I: instance u_lane_keys/key_meta[1:0]
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_lane_keys/u_key_snapshot/(req_sync1|ack_sync1).*}]
+	I: The pattern '.*u_lane_keys/u_key_snapshot/(req_sync1|ack_sync1).*' in command 'get_cells -hierarchical -regexp .*u_lane_keys/u_key_snapshot/(req_sync1|ack_sync1).*' match 2 objects below:
+	I: instance u_lane_keys/u_key_snapshot/ack_sync1
+	I: instance u_lane_keys/u_key_snapshot/req_sync1
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_rx_monitor/(raw_d1|events_d1|hs_seen_d1).*}]
+	I: The pattern '.*u_rx_monitor/(raw_d1|events_d1|hs_seen_d1).*' in command 'get_cells -hierarchical -regexp .*u_rx_monitor/(raw_d1|events_d1|hs_seen_d1).*' match 3 objects below:
+	I: instance u_hdmi_in_demo/u_rx_monitor/events_d1[2:0]
+	I: instance u_hdmi_in_demo/u_rx_monitor/hs_seen_d1
+	I: instance u_hdmi_in_demo/u_rx_monitor/raw_d1[4:0]
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_timing_monitor/vs_sync1.*}]
+	I: The pattern '.*u_timing_monitor/vs_sync1.*' in command 'get_cells -hierarchical -regexp .*u_timing_monitor/vs_sync1.*' match 1 objects below:
+	I: instance u_hdmi_in_demo/u_timing_monitor/vs_sync1
+
+set_false_path -to [get_cells -hierarchical -regexp {.*u_video_frame_bridge/(run_sync1|idle_sync1).*}]
+	I: The pattern '.*u_video_frame_bridge/(run_sync1|idle_sync1).*' in command 'get_cells -hierarchical -regexp .*u_video_frame_bridge/(run_sync1|idle_sync1).*' match 2 objects below:
+	I: instance g_ddr_frame_buffer.u_video_frame_bridge/idle_sync1
+	I: instance g_ddr_frame_buffer.u_video_frame_bridge/run_sync1
+
+set_false_path -to [get_pins -hierarchical -regexp {.*(snapshot/(src_reset_pipe|dst_reset_pipe)|u_video_frame_bridge/(pcie_reset_pipe|ddr_reset_pipe)|u_ddr_frame_buffer/fifo_(pix|ddr)_reset|u_ips2l_pcie_dma_rx_top/video_(wr|rd)_reset_pipe|u_rx_monitor/pix_reset_pipe).*/C$}]
+	I: The pattern '.*(snapshot/(src_reset_pipe|dst_reset_pipe)|u_video_frame_bridge/(pcie_reset_pipe|ddr_reset_pipe)|u_ddr_frame_buffer/fifo_(pix|ddr)_reset|u_ips2l_pcie_dma_rx_top/video_(wr|rd)_reset_pipe|u_rx_monitor/pix_reset_pipe).*/C$' in command 'get_pins -hierarchical -regexp .*(snapshot/(src_reset_pipe|dst_reset_pipe)|u_video_frame_bridge/(pcie_reset_pipe|ddr_reset_pipe)|u_ddr_frame_buffer/fifo_(pix|ddr)_reset|u_ips2l_pcie_dma_rx_top/video_(wr|rd)_reset_pipe|u_rx_monitor/pix_reset_pipe).*/C$' match 25 objects below:
+	I: pin g_ddr_frame_buffer.u_ddr_frame_buffer/fifo_ddr_reset[1:0]/C
+	I: pin g_ddr_frame_buffer.u_ddr_frame_buffer/fifo_pix_reset[1:0]/C
+	I: pin g_ddr_frame_buffer.u_video_frame_bridge/ddr_reset_pipe[1:0]/C
+	I: pin g_ddr_frame_buffer.u_video_frame_bridge/pcie_reset_pipe[1:0]/C
+	I: pin u_capture_diag_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_capture_diag_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_ddr_diag_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_ddr_diag_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_feature_append_diag_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_feature_append_diag_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_hdmi_diag_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_hdmi_diag_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_hdmi_in_demo/u_rx_monitor/pix_reset_pipe[1:0]/C
+	I: pin u_hdmi_in_demo/u_rx_monitor/u_geometry_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_hdmi_in_demo/u_rx_monitor/u_geometry_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_hdmi_in_demo/u_timing_monitor/u_timing_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_hdmi_in_demo/u_timing_monitor/u_timing_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_ips2l_pcie_dma/u_ips2l_pcie_dma_rx_top/video_rd_reset_pipe[1:0]/C
+	I: pin u_ips2l_pcie_dma/u_ips2l_pcie_dma_rx_top/video_wr_reset_pipe[1:0]/C
+	I: pin u_lane_keys/u_key_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_lane_keys/u_key_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_low_light_diag_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_low_light_diag_snapshot/src_reset_pipe[1:0]/C
+	I: pin u_rx_request_snapshot/dst_reset_pipe[1:0]/C
+	I: pin u_rx_request_snapshot/src_reset_pipe[1:0]/C
+
+set_false_path -to [get_pins -hierarchical -regexp {.*u_lane_cnn/(vr|cr|pr|result_cdc/(src_reset_pipe|dst_reset_pipe)).*/C$}]
+	I: The pattern '.*u_lane_cnn/(vr|cr|pr|result_cdc/(src_reset_pipe|dst_reset_pipe)).*/C$' in command 'get_pins -hierarchical -regexp .*u_lane_cnn/(vr|cr|pr|result_cdc/(src_reset_pipe|dst_reset_pipe)).*/C$' match 5 objects below:
+	I: pin g_tiny_lane.u_lane_cnn/cr[1:0]/C
+	I: pin g_tiny_lane.u_lane_cnn/pr[1:0]/C
+	I: pin g_tiny_lane.u_lane_cnn/vr[1:0]/C
+	I: pin g_tiny_lane.u_lane_cnn/result_cdc/dst_reset_pipe[1:0]/C
+	I: pin g_tiny_lane.u_lane_cnn/result_cdc/src_reset_pipe[1:0]/C
+
+set_false_path -to [get_pins -hierarchical -regexp {.*u_timing_monitor/pix_reset.*/C$}]
+	I: The pattern '.*u_timing_monitor/pix_reset.*/C$' in command 'get_pins -hierarchical -regexp .*u_timing_monitor/pix_reset.*/C$' match 1 objects below:
+	I: pin u_hdmi_in_demo/u_timing_monitor/pix_reset[1:0]/C
+
+set_false_path -to [get_pins -hierarchical -regexp {u_hdmi_pix_(rst|ready)_sync/rs[12]/C$}]
+	I: The pattern 'u_hdmi_pix_(rst|ready)_sync/rs[12]/C$' in command 'get_pins -hierarchical -regexp {u_hdmi_pix_(rst|ready)_sync/rs[12]/C$}' match 4 objects below:
+	I: pin u_hdmi_pix_ready_sync/rs1/C
+	I: pin u_hdmi_pix_ready_sync/rs2/C
+	I: pin u_hdmi_pix_rst_sync/rs1/C
+	I: pin u_hdmi_pix_rst_sync/rs2/C
+
+set_max_delay 5.0 -datapath_only -from [get_clocks {ddrphy_sysclk}] -to [get_cells -hierarchical -regexp {.*u_hdmi_ddr_fifo/rd_gray_wr_d1\[[0-9:]+\].*}]
+	I: The pattern '.*u_hdmi_ddr_fifo/rd_gray_wr_d1\[[0-9:]+\].*' in command 'get_cells -hierarchical -regexp {.*u_hdmi_ddr_fifo/rd_gray_wr_d1\[[0-9:]+\].*}' match 1 objects below:
+	I: instance g_ddr_frame_buffer.u_ddr_frame_buffer/u_hdmi_ddr_fifo/rd_gray_wr_d1[10:0]
+
+set_max_delay 5.0 -datapath_only -from [get_clocks {ddrphy_sysclk}] -to [get_cells -hierarchical -regexp {.*u_video_write_fifo.*/ASYN_CTRL.rwptr1\[[0-9:]+\].*}]
+	I: The pattern '.*u_video_write_fifo.*/ASYN_CTRL.rwptr1\[[0-9:]+\].*' in command 'get_cells -hierarchical -regexp {.*u_video_write_fifo.*/ASYN_CTRL.rwptr1\[[0-9:]+\].*}' match 1 objects below:
+	I: instance u_ips2l_pcie_dma/u_ips2l_pcie_dma_rx_top/u_video_write_fifo/u_pgm_distributed_fifo_ctr_v1_0/ASYN_CTRL.rwptr1[4:0]
+
+set_max_delay 5.0 -datapath_only -from [get_clocks {pclk_div2}] -to [get_cells -hierarchical -regexp {.*u_video_write_fifo.*/ASYN_CTRL.wrptr1\[[0-9:]+\].*}]
+	I: The pattern '.*u_video_write_fifo.*/ASYN_CTRL.wrptr1\[[0-9:]+\].*' in command 'get_cells -hierarchical -regexp {.*u_video_write_fifo.*/ASYN_CTRL.wrptr1\[[0-9:]+\].*}' match 1 objects below:
+	I: instance u_ips2l_pcie_dma/u_ips2l_pcie_dma_rx_top/u_video_write_fifo/u_pgm_distributed_fifo_ctr_v1_0/ASYN_CTRL.wrptr1[4:0]
+
+set_max_delay 5.0 -datapath_only -from [get_clocks {pix_clk_in}] -to [get_cells -hierarchical -regexp {.*u_hdmi_ddr_fifo/wr_gray_rd_d1\[[0-9:]+\].*}]
+	I: The pattern '.*u_hdmi_ddr_fifo/wr_gray_rd_d1\[[0-9:]+\].*' in command 'get_cells -hierarchical -regexp {.*u_hdmi_ddr_fifo/wr_gray_rd_d1\[[0-9:]+\].*}' match 1 objects below:
+	I: instance g_ddr_frame_buffer.u_ddr_frame_buffer/u_hdmi_ddr_fifo/wr_gray_rd_d1[10:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*snapshot/held_data\[[0-9:]+\].*}] -to [get_cells -hierarchical -regexp {.*snapshot/dst_data\[[0-9:]+\].*}]
+	I: The pattern '.*snapshot/held_data\[[0-9:]+\].*' in command 'get_cells -hierarchical -regexp {.*snapshot/held_data\[[0-9:]+\].*}' match 9 objects below:
+	I: instance u_capture_diag_snapshot/held_data[255:0]
+	I: instance u_ddr_diag_snapshot/held_data[425:0]
+	I: instance u_feature_append_diag_snapshot/held_data[127:0]
+	I: instance u_hdmi_diag_snapshot/held_data[895:0]
+	I: instance u_hdmi_in_demo/u_rx_monitor/u_geometry_snapshot/held_data[63:0]
+	I: instance u_hdmi_in_demo/u_timing_monitor/u_timing_snapshot/held_data[161:0]
+	I: instance u_lane_keys/u_key_snapshot/held_data[65:0]
+	I: instance u_low_light_diag_snapshot/held_data[127:0]
+	I: instance u_rx_request_snapshot/held_data[31:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*snapshot/held_data\[[0-9:]+\].*}] -to [get_cells -hierarchical -regexp {.*snapshot/dst_data\[[0-9:]+\].*}]
+	I: The pattern '.*snapshot/dst_data\[[0-9:]+\].*' in command 'get_cells -hierarchical -regexp {.*snapshot/dst_data\[[0-9:]+\].*}' match 9 objects below:
+	I: instance u_capture_diag_snapshot/dst_data[255:0]
+	I: instance u_ddr_diag_snapshot/dst_data[425:0]
+	I: instance u_feature_append_diag_snapshot/dst_data[127:0]
+	I: instance u_hdmi_diag_snapshot/dst_data[895:0]
+	I: instance u_hdmi_in_demo/u_rx_monitor/u_geometry_snapshot/dst_data[63:0]
+	I: instance u_hdmi_in_demo/u_timing_monitor/u_timing_snapshot/dst_data[161:0]
+	I: instance u_lane_keys/u_key_snapshot/dst_data[65:0]
+	I: instance u_low_light_diag_snapshot/dst_data[127:0]
+	I: instance u_rx_request_snapshot/dst_data[31:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*u_lane_cnn/buffers/(ids|drops).*}] -to [get_cells -hierarchical -regexp {.*u_lane_cnn/scheduler/(frame_id|drop_count).*}]
+	I: The pattern '.*u_lane_cnn/buffers/(ids|drops).*' in command 'get_cells -hierarchical -regexp .*u_lane_cnn/buffers/(ids|drops).*' match 4 objects below:
+	I: instance g_tiny_lane.u_lane_cnn/buffers/drops[0][31:0]
+	I: instance g_tiny_lane.u_lane_cnn/buffers/drops[1][31:0]
+	I: instance g_tiny_lane.u_lane_cnn/buffers/ids[0][31:0]
+	I: instance g_tiny_lane.u_lane_cnn/buffers/ids[1][31:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*u_lane_cnn/buffers/(ids|drops).*}] -to [get_cells -hierarchical -regexp {.*u_lane_cnn/scheduler/(frame_id|drop_count).*}]
+	I: The pattern '.*u_lane_cnn/scheduler/(frame_id|drop_count).*' in command 'get_cells -hierarchical -regexp .*u_lane_cnn/scheduler/(frame_id|drop_count).*' match 2 objects below:
+	I: instance g_tiny_lane.u_lane_cnn/scheduler/drop_count[31:0]
+	I: instance g_tiny_lane.u_lane_cnn/scheduler/frame_id[31:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*u_lane_cnn/result_cdc/held_data.*}] -to [get_cells -hierarchical -regexp {.*u_lane_cnn/result_cdc/dst_data.*}]
+	I: The pattern '.*u_lane_cnn/result_cdc/held_data.*' in command 'get_cells -hierarchical -regexp .*u_lane_cnn/result_cdc/held_data.*' match 1 objects below:
+	I: instance g_tiny_lane.u_lane_cnn/result_cdc/held_data[223:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*u_lane_cnn/result_cdc/held_data.*}] -to [get_cells -hierarchical -regexp {.*u_lane_cnn/result_cdc/dst_data.*}]
+	I: The pattern '.*u_lane_cnn/result_cdc/dst_data.*' in command 'get_cells -hierarchical -regexp .*u_lane_cnn/result_cdc/dst_data.*' match 1 objects below:
+	I: instance g_tiny_lane.u_lane_cnn/result_cdc/dst_data[223:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*u_lane_keys/u_key_snapshot/held_data.*}] -to [get_cells -hierarchical -regexp {.*u_lane_keys/u_key_snapshot/dst_data.*}]
+	I: The pattern '.*u_lane_keys/u_key_snapshot/held_data.*' in command 'get_cells -hierarchical -regexp .*u_lane_keys/u_key_snapshot/held_data.*' match 1 objects below:
+	I: instance u_lane_keys/u_key_snapshot/held_data[65:0]
+
+set_max_delay 6.0 -datapath_only -from [get_cells -hierarchical -regexp {.*u_lane_keys/u_key_snapshot/held_data.*}] -to [get_cells -hierarchical -regexp {.*u_lane_keys/u_key_snapshot/dst_data.*}]
+	I: The pattern '.*u_lane_keys/u_key_snapshot/dst_data.*' in command 'get_cells -hierarchical -regexp .*u_lane_keys/u_key_snapshot/dst_data.*' match 1 objects below:
+	I: instance u_lane_keys/u_key_snapshot/dst_data[65:0]
+
+

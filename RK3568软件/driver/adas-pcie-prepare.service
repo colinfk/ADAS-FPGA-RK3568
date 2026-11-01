@@ -1,0 +1,16 @@
+[Unit]
+Description=Validate ADAS FPGA enumeration and restore assigned PCIe BARs
+After=local-fs.target systemd-udev-trigger.service
+Before=adas-video.service
+ConditionPathExists=/opt/adas-pcie/current/adas_video_pcie.ko
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh /opt/adas-pcie/current/start_adas_pcie.sh
+TimeoutStartSec=35
+RemainAfterExit=yes
+StandardOutput=append:/var/log/adas-pcie/startup.log
+StandardError=inherit
+
+[Install]
+WantedBy=multi-user.target
