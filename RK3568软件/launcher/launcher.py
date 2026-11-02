@@ -80,6 +80,7 @@ class Home(W.QWidget):
         p.translate((self.width()-1920*scale)/2, (self.height()-1080*scale)/2)
         p.scale(scale, scale)
         p.drawPixmap(0, 0, self.background)
+        p.fillRect(40, 41, 1840, 184, G.QColor('#ffffff'))
         for i in range(4):
             p.fillRect(110+i*440, 674, 380, 65, G.QColor('#faf8ff'))
 
@@ -89,7 +90,7 @@ class Window(W.QMainWindow):
         super().__init__()
         self.args, self.cfg, self.keys = args, cfg, keys
         self.base = Path(args.config).resolve().parent
-        self.setWindowTitle('智眸先锋队 · ADAS 四模式演示')
+        self.setWindowTitle('ADAS 四模式演示')
         self.resize(1920, 1080)
         self.stack = W.QStackedWidget()
         self.setCentralWidget(self.stack)
