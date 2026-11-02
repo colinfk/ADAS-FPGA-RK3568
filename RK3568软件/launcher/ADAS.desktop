@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ADAS模式
+Comment=启动 FPGA 实时输入四模式主页
+Exec=sudo -n /usr/local/bin/adas-launcher-desktop
+Icon=/usr/local/share/icons/adas-launcher.png
+Terminal=false
+StartupNotify=false
+Categories=AudioVideo;
